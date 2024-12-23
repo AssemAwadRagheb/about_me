@@ -12,6 +12,7 @@
 ---
 
 ## 🏆 Achievements & Highlights
+
 <p align="center">
   <img src="https://media.giphy.com/media/XYZ123/giphy.gif" width="10%">
 </p>
