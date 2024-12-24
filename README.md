@@ -96,24 +96,18 @@
 ## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
 <p align="center">
   <a href="https://www.hackthebox.eu/" target="_blank">
-    <img src="https://www.hackthebox.eu/favicon.ico" alt="Hack The Box" width="5%" />
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="Hack The Box" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.tryhackme.com/" target="_blank">
     <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="5%" />
   </a>
   &emsp; 
-  <a href="https://www.vulnhub.com/" target="_blank">
-    <img src="https://www.vulnhub.com/favicon.ico" alt="VulnHub" width="5%" />
-  </a>
-  &emsp; 
   <a href="https://portswigger.net/web-security" target="_blank">
-    <img src="https://www.portswigger.net/favicon.ico" alt="PortSwigger" width="5%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" alt="PortSwigger" width="5%" />
   </a>
   &emsp; 
-  <a href="https://www.hacking-lab.com/" target="_blank">
-    <img src="https://www.hacking-lab.com/favicon.ico" alt="Hacking Lab" width="5%" />
-  </a>
+
 </p>
 
 
