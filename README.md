@@ -106,8 +106,14 @@
   <a href="https://portswigger.net/web-security" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" alt="PortSwigger" width="5%" />
   </a>
-  &emsp; 
 </p>
+
+<style>
+  a {
+    text-decoration: none !important;
+  }
+</style>
+
 
 
 
