@@ -10,9 +10,9 @@
 </p>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
-
 <img align="right" src="https://github.com/Assem2022awad/Portfolio/blob/main/Right_Side.gif" width="30%">
 
+<br><br>
 - 👨‍💻 I'm a Full-Stack .NET Developer and Penetration Testing Specialist.
 - 🎓 I graduated from the [Faculty of Technology Information Systems](http://psu.edu.eg) at [Port Said University](http://psu.edu.eg) (2020 – 2024).
 - 🛡️ I specialize in building secure applications and identifying vulnerabilities in web systems.
@@ -21,17 +21,12 @@
 - 💼 This is [MY RESUME](#).
 - 🌐 Check out [MY WEBSITE](#).
 
-<br>
-
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(1).gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="10%"> Certifications & Achievements
-
 - CWL Certified Cyber Security Analyst (C3SA)
 - eWPT v2 Web Penetration Tester – eLearnSecurity
 - eJPT Junior Penetration Tester – eLearnSecurity
 - First Place – Web Hackathon, Creativa Hub PSU
 - Winner – Cyber Zone Competition at Cairo ICT Event
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
@@ -61,10 +56,10 @@
 ### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="5%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
- &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
+  &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(2).gif?raw=true" width="5%">  Cybersecurity Tools
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(2).gif?raw=true" width="5%"> Cybersecurity Tools
 <p align="center">
   &emsp; <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white">
   &emsp; <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP%20-%23FCAD00.svg?style=plastic&logo=owasp&logoColor=white">
@@ -103,7 +98,7 @@
 
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -136,16 +131,13 @@
       <a href="https://github.com/Assem2022awad/Project2">
           <img alt="Project2" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project2&theme=tokyonight" />
       </a>
-      <a href="https://github.com/Assem2022awad/Project3">
-          <img alt="Project3" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project3&theme=tokyonight" />
-      </a>
+  </p>
+  <p align="center">
+      <a href="https://github.com/Assem2022awad?tab=repositories">View More Repositories</a>
   </p>
 </details>
 
----
-
+<h3>🐍 A Snake Eating My Contributions Graph</h3>
 <p align="center">
-  <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Divider.gif" width="40%">
+    <img alt="Quote" src="https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg">
 </p>
-
-<h2 align="center">Thank You!</h2>
