@@ -100,7 +100,7 @@
   </a>
   &emsp; 
   <a href="https://www.tryhackme.com/" target="_blank">
-    <img src="https://www.tryhackme.com/favicon.ico" alt="TryHackMe" width="5%" />
+    <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.vulnhub.com/" target="_blank">
