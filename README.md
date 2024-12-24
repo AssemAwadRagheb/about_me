@@ -100,21 +100,22 @@
   </a>
   &emsp; 
   <a href="https://www.tryhackme.com/" target="_blank">
-    <img src="https://tryhackme.com/static/logo-black-plain.svg" alt="TryHackMe" width="5%" />
+    <img src="https://www.google.com/s2/favicons?domain=tryhackme.com" alt="TryHackMe" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.vulnhub.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Vulnhub_logo.svg" alt="VulnHub" width="5%" />
+    <img src="https://www.google.com/s2/favicons?domain=vulnhub.com" alt="VulnHub" width="5%" />
   </a>
   &emsp; 
   <a href="https://portswigger.net/web-security" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/PortSwigger_logo.svg" alt="PortSwigger" width="5%" />
+    <img src="https://www.google.com/s2/favicons?domain=portswigger.net" alt="PortSwigger" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.hacking-lab.com/" target="_blank">
-    <img src="https://www.hacking-lab.com/wp-content/uploads/2020/10/cropped-logo-512x512.png" alt="Hacking Lab" width="5%" />
+    <img src="https://www.google.com/s2/favicons?domain=hacking-lab.com" alt="Hacking Lab" width="5%" />
   </a>
 </p>
+
 
 
 
