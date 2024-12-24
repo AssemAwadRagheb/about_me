@@ -77,7 +77,7 @@
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(5).gif?raw=true" width="3%"> Cybersecurity Tools
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(5).gif?raw=true" width="5%"> Cybersecurity Tools
 <p align="center">
   &emsp; <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white">
   &emsp; <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP%20-%23FCAD00.svg?style=plastic&logo=owasp&logoColor=white">
