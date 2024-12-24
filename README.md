@@ -28,6 +28,24 @@
 - First Place – Web Hackathon, Creativa Hub PSU
 - Winner – Cyber Zone Competition at Cairo ICT Event
 
+  ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(4).gif?raw=true" width="5%"> My Competitive Programming Profiles
+<p align="center">
+  <a href="https://codeforces.com/profile/AssemAwad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="6%" /></a>
+  &emsp;
+  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="6%" /></a>
+</p>
+
+## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
@@ -87,24 +105,6 @@
   &emsp; <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black">
   &emsp; <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank%20-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white">
   &emsp; <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef%20-%235B4638.svg?style=plastic&logo=codechef&logoColor=white">
-</p>
-
-## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(4).gif?raw=true" width="5%"> My Competitive Programming Profiles
-<p align="center">
-  <a href="https://codeforces.com/profile/AssemAwad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="6%" /></a>
-  &emsp;
-  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="6%" /></a>
-</p>
-
-## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
-<p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 <details>
