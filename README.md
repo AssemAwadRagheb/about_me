@@ -143,4 +143,4 @@
 <h3>🐍 A Snake Eating My Contributions Graph</h3></summary>
   <p align="center">
       <img alt="Quote" src="https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg">
-  </p>
+  </p
