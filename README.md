@@ -28,7 +28,7 @@
 - First Place – Web Hackathon, Creativa Hub PSU
 - Winner – Cyber Zone Competition at Cairo ICT Event
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%"> My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
 <p align="center"> 
@@ -47,13 +47,13 @@
   &emsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038448628.gif?raw=true" width="7%"> Backend Development
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038448628.gif?raw=true" width="5%"> Backend Development
 <p align="center"> 
   &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="7%"> Frameworks
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="5%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
