@@ -96,23 +96,18 @@
 ## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
 <p align="center">
   <a href="https://www.hackthebox.eu/" target="_blank" style="text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="Hack The Box" width="5%" />
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="Hack The Box" width="10%" />
   </a>
   &emsp; 
   <a href="https://www.tryhackme.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="5%" />
+    <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="10%" />
   </a>
   &emsp; 
   <a href="https://portswigger.net/web-security" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" alt="PortSwigger" width="5%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" alt="PortSwigger" width="10%" />
   </a>
 </p>
 
-<style>
-  a {
-    text-decoration: none !important;
-  }
-</style>
 
 
 
