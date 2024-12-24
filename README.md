@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="5%"> About Me
 <img align="right" src="https://github.com/Assem2022awad/Portfolio/blob/main/Right_Side.gif" width="30%">
 
 <br><br>
@@ -28,7 +28,7 @@
 - First Place – Web Hackathon, Creativa Hub PSU
 - Winner – Cyber Zone Competition at Cairo ICT Event
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%"> My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
 <p align="center"> 
@@ -53,13 +53,13 @@
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="5%"> Frameworks
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="7%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(2).gif?raw=true" width="5%"> Cybersecurity Tools
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(2).gif?raw=true" width="3%"> Cybersecurity Tools
 <p align="center">
   &emsp; <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white">
   &emsp; <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP%20-%23FCAD00.svg?style=plastic&logo=owasp&logoColor=white">
