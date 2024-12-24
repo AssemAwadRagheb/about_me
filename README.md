@@ -46,7 +46,7 @@
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Skills
 
 ### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
 <p align="center"> 
