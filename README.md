@@ -96,23 +96,23 @@
 ## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
 <p align="center">
   <a href="https://www.hackthebox.eu/" target="_blank">
-    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Hack+The+Box+logo#imgrc=zDD56AK0JfNJbM" alt="Hack The Box" width="5%" />
+    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Hack+The+Box+logo" alt="Hack The Box" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.tryhackme.com/" target="_blank">
-    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Try+Hack+Me+logo#imgrc=I8bQkvcLoTDrbM" alt="TryHackMe" width="5%" />
+    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Try+Hack+Me+logo" alt="TryHackMe" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.vulnhub.com/" target="_blank">
-    <img src="https://www.google.com/search?hl=en&tbm=isch&q=VulnHub+logo#imgrc=cVYzZdbjTo6t6M" alt="VulnHub" width="5%" />
+    <img src="https://www.google.com/search?hl=en&tbm=isch&q=VulnHub+logo" alt="VulnHub" width="5%" />
   </a>
   &emsp; 
   <a href="https://portswigger.net/web-security" target="_blank">
-    <img src="https://www.google.com/search?hl=en&tbm=isch&q=PortSwigger+logo#imgrc=ZRqaMhKv9OAcwM" alt="PortSwigger" width="5%" />
+    <img src="https://www.google.com/search?hl=en&tbm=isch&q=PortSwigger+logo" alt="PortSwigger" width="5%" />
   </a>
   &emsp; 
   <a href="https://www.hacking-lab.com/" target="_blank">
-    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Hacking+Lab+logo#imgrc=92IlUPuHfpbJbM" alt="Hacking Lab" width="5%" />
+    <img src="https://www.google.com/search?hl=en&tbm=isch&q=Hacking+Lab+logo" alt="Hacking Lab" width="5%" />
   </a>
 </p>
 
