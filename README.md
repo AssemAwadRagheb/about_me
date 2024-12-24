@@ -71,7 +71,7 @@
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="7%"> Frameworks
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(7).gif?raw=true" width="5%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
