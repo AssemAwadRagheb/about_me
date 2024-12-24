@@ -30,9 +30,9 @@
   
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(4).gif?raw=true" width="5%"> My Competitive Programming Profiles
 <p align="center">
-  <a href="https://codeforces.com/profile/AssemAwad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="3%" /></a>
+  <a href="https://codeforces.com/profile/AssemAwad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="5%" /></a>
   &emsp;
-  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="3%" /></a>
+  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="5%" /></a>
 </p>
 
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
