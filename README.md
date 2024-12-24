@@ -95,16 +95,27 @@
 
 ## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
 <p align="center">
-  <a href="https://www.hackthebox.eu/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/hack-the-box.png" alt="Hack The Box" width="5%" /></a>
+  <a href="https://www.hackthebox.eu/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Hack_The_Box_Logo.png" alt="Hack The Box" width="5%" />
+  </a>
   &emsp; 
-  <a href="https://www.tryhackme.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/try-hack-me.png" alt="TryHackMe" width="5%" /></a>
+  <a href="https://www.tryhackme.com/" target="_blank">
+    <img src="https://tryhackme.com/static/logo-black-plain.svg" alt="TryHackMe" width="5%" />
+  </a>
   &emsp; 
-  <a href="https://www.vulnhub.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/vulnhub.png" alt="VulnHub" width="5%" /></a>
+  <a href="https://www.vulnhub.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Vulnhub_logo.svg" alt="VulnHub" width="5%" />
+  </a>
   &emsp; 
-  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.icons8.com/ios/50/000000/port-swigger.png" alt="PortSwigger" width="5%" /></a>
+  <a href="https://portswigger.net/web-security" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/PortSwigger_logo.svg" alt="PortSwigger" width="5%" />
+  </a>
   &emsp; 
-  <a href="https://www.hacking-lab.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/hacking-lab.png" alt="Hacking Lab" width="5%" /></a>
+  <a href="https://www.hacking-lab.com/" target="_blank">
+    <img src="https://www.hacking-lab.com/wp-content/uploads/2020/10/cropped-logo-512x512.png" alt="Hacking Lab" width="5%" />
+  </a>
 </p>
+
 
 
 
