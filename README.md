@@ -38,7 +38,7 @@
   &emsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038185203.gif?raw=true" width="10%"> Frontend Development
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038185203.gif?raw=true" width="5%"> Frontend Development
 <p align="center"> 
   &emsp; <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   &emsp; <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
@@ -53,7 +53,7 @@
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="5%"> Frameworks
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="7%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
