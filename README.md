@@ -30,7 +30,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true"width="3%">  Programming Languages
 <p align="center"> 
   &emsp; <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
@@ -53,7 +53,7 @@
   &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
 </p>
 
-### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="7%"> Frameworks
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="6%"> Frameworks
 <p align="center">
   &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
