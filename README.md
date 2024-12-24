@@ -9,99 +9,138 @@
   </a>
 </p>
 
-## About Me
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 
 <img align="right" src="https://github.com/Assem2022awad/Portfolio/blob/main/Right_Side.gif" width="30%">
 
-- 👨‍💻 I'm a Full-Stack .NET Developer and Penetration Testing Specialist.  
-- 🎓 Graduated from [Port Said University](http://psu.edu.eg) (2020 – 2024).  
-- 🛡️ Specialize in building secure applications and identifying vulnerabilities.  
-- ✍🏻 Passionate about problem-solving and enhancing security.  
-- 💼 [MY RESUME](#)  
-- 🌐 [MY WEBSITE](#)  
+<br><br>
+- 👨‍💻 I'm a Full-Stack .NET Developer and Penetration Testing Specialist.
+- 🎓 I graduated from the [Faculty of Technology Information Systems](http://psu.edu.eg) at [Port Said University](http://psu.edu.eg) (2020 – 2024).
+- 🛡️ I specialize in building secure applications and identifying vulnerabilities in web systems.
+- ✍🏻 I love solving problems with software and enhancing system security.
+- 🤓 Continuously learning and improving my technical skills.
+- 💼 This is [MY RESUME](#).
+- 🌐 Check out [MY WEBSITE](#).
+<br>
 
----
+## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(1).gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="10%"> Certifications & Achievements
 
-## Certifications & Achievements
+- CWL Certified Cyber Security Analyst (C3SA)
+- eWPT v2 Web Penetration Tester – eLearnSecurity
+- eJPT Junior Penetration Tester – eLearnSecurity
+- First Place – Web Hackathon, Creativa Hub PSU
+- Winner – Cyber Zone Competition at Cairo ICT Event
 
-- CWL Certified Cyber Security Analyst (C3SA)  
-- eWPT v2 Web Penetration Tester – eLearnSecurity  
-- eJPT Junior Penetration Tester – eLearnSecurity  
-- First Place – Web Hackathon, Creativa Hub PSU  
-- Winner – Cyber Zone Competition at Cairo ICT Event  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
----
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Programming_Languages.gif?raw=true" width="5%"> Programming Languages
+<p align="center"> 
+  &emsp; <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+  &emsp; <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  &emsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+</p>
 
-## My Skills
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038185203.gif?raw=true" width="10%"> Frontend Development
+<p align="center"> 
+  &emsp; <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  &emsp; <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  &emsp; <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+  &emsp; <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+  &emsp; <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+</p>
 
-### Programming Languages  
-- C++  
-- C#  
-- Python  
-- JavaScript  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Animation%20-%201735038448628.gif?raw=true" width="5%"> Backend Development
+<p align="center"> 
+  &emsp; <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+  &emsp; <img alt="C#" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
+</p>
 
-### Frontend Development  
-- HTML  
-- CSS  
-- Bootstrap  
-- React  
-- JavaScript  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Front_End.gif?raw=true" width="5%"> Frameworks
+<p align="center">
+  &emsp; <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+ &emsp; <img alt=".NET" src="https://img.shields.io/badge/C%23.NET%20-%230C7ACD.svg?style=plastic&logo=dot-net&logoColor=white">
+</p>
 
-### Backend Development  
-- PHP  
-- C# .NET  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(2).gif?raw=true" width="5%">  Cybersecurity Tools
+<p align="center">
+  &emsp; <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white">
+  &emsp; <img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP%20ZAP%20-%23FCAD00.svg?style=plastic&logo=owasp&logoColor=white">
+  &emsp; <img alt="Nmap" src="https://img.shields.io/badge/Nmap%20-%2341BDF5.svg?style=plastic&logo=nmap&logoColor=white">
+</p>
 
-### Frameworks  
-- Laravel  
-- .NET  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/Software_Tools.gif?raw=true" width="5%"> Software & Tools
+<p align="center">
+  &emsp; <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  &emsp; <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  &emsp; <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%234285F4.svg?style=plastic&logo=google-sheets&logoColor=white">
+  &emsp; <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow%20-%23FE7A16.svg?style=plastic&logo=stack-overflow&logoColor=white">
+  &emsp; <img alt="Geeks for Geeks" src="https://img.shields.io/badge/GeeksforGeeks%20-%2300C853.svg?style=plastic&logo=geeksforgeeks&logoColor=white">
+</p>
 
-### Cybersecurity Tools  
-- Burp Suite  
-- OWASP ZAP  
-- Nmap  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/IDEs.gif?raw=true" width="5%"> IDEs
+<p align="center">
+  &emsp; <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  &emsp; <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white">
+</p>
 
-### Software & Tools  
-- Git  
-- GitHub  
-- Google Sheets  
-- Stack Overflow  
-- Geeks for Geeks  
+### <img src = "https://github.com/Assem2022awad/Portfolio/blob/main/CP_PS.gif?raw=true" width="5%"> Competitive Programming & Problem Solving
+<p align="center">
+  &emsp; <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white">
+  &emsp; <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black">
+  &emsp; <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank%20-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white">
+  &emsp; <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef%20-%235B4638.svg?style=plastic&logo=codechef&logoColor=white">
+</p>
 
-### IDEs  
-- Visual Studio Code  
-- Eclipse  
+## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(4).gif?raw=true" width="5%"> My Competitive Programming Profiles
+<p align="center">
+  <a href="https://codeforces.com/profile/AssemAwad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="6%" /></a>
+  &emsp;
+  <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC" width="6%" /></a>
+</p>
 
-### Competitive Programming  
-- Codeforces  
-- Leetcode  
-- HackerRank  
-- CodeChef  
+## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
 
----
+<details>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
+  <p align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Assem2022awad&show_icons=true&theme=tokyonight" width="48%" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assem2022awad&layout=compact&theme=tokyonight" width="48%" />
+  </p>
+</details>
 
-## Connect with Me
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  <p align="center">
+      <img alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Assem2022awad&theme=tokyo-night&hide_border=true" />
+  </p>
+</details>
 
-- 📧 [Email](mailto:ahmed.7oskaa@gmail.com)  
-- 💻 [GitHub](https://github.com/7oSkaaa)  
-- 📱 [WhatsApp](https://wa.me/0201208822340)  
-- 👔 [LinkedIn](https://www.linkedin.com/in/7oskaa/)  
-- 📸 [Instagram](https://www.instagram.com/ahmed_7oskaa/)  
+<details>
+  <summary><h3>My Repositories</h3></summary>
+  <p align="center">
+      <a href="https://github.com/Assem2022awad/Project1">
+          <img alt="Project1" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project1&theme=tokyonight" />
+      </a>
+      <a href="https://github.com/Assem2022awad/Project2">
+          <img alt="Project2" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project2&theme=tokyonight" />
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://github.com/Assem2022awad?tab=repositories">View More Repositories</a>
+  </p>
+</details>
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Assem2022awad&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Assem2022awad&layout=compact&theme=tokyonight)  
-
----
-
-## GitHub Activity
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Assem2022awad&theme=tokyo-night&hide_border=true)
-
----
-
-## Snake Contribution Graph
-
-![Snake Graph](https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg)
+<h3>🐍 A Snake Eating My Contributions Graph</h3></summary>
+  <p align="center">
+      <img alt="Quote" src="https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg">
+  </p>
