@@ -101,6 +101,42 @@
   &emsp; <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.shields.io/badge/PortSwigger-%23000000.svg?style=plastic&logo=portswigger&logoColor=white" alt="PortSwigger"></a>
   &emsp; <a href="https://www.hacking-lab.com/" target="_blank"><img src="https://img.shields.io/badge/Hacking%20Lab-%23000000.svg?style=plastic&logo=hacking-lab&logoColor=white" alt="Hacking Lab"></a>
 </p>
+</p>
+
+<details>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
+  <p align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Assem2022awad&show_icons=true&theme=tokyonight" width="48%" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assem2022awad&layout=compact&theme=tokyonight" width="48%" />
+  </p>
+</details>
+
+<details>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  <p align="center">
+      <img alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Assem2022awad&theme=tokyo-night&hide_border=true" />
+  </p>
+</details>
+
+<details>
+  <summary><h3>My Repositories</h3></summary>
+  <p align="center">
+      <a href="https://github.com/Assem2022awad/Project1">
+          <img alt="Project1" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project1&theme=tokyonight" />
+      </a>
+      <a href="https://github.com/Assem2022awad/Project2">
+          <img alt="Project2" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project2&theme=tokyonight" />
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://github.com/Assem2022awad?tab=repositories">View More Repositories</a>
+  </p>
+</details>
+
+<h3>🐍 A Snake Eating My Contributions Graph</h3>
+<p align="center">
+    <img alt="Quote" src="https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg">
+</p>
 
 
 
