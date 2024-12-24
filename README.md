@@ -95,15 +95,16 @@
 
 ## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
 <p align="center">
-  <a href="https://www.hackthebox.eu/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-hack-the-box-cyber-security-flat-flat-juicy-fish.png" alt="Hack The Box" width="5%" /></a>
+  <a href="https://www.hackthebox.eu/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Hack_The_Box_logo.png" alt="Hack The Box" width="5%" /></a>
   &emsp; 
-  <a href="https://www.tryhackme.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/try-hack-me.png" alt="TryHackMe" width="5%" /></a>
+  <a href="https://www.tryhackme.com/" target="_blank"><img src="https://www.tryhackme.com/favicon.ico" alt="TryHackMe" width="5%" /></a>
   &emsp; 
-  <a href="https://www.vulnhub.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-vulnhub-vulnerable-machines-logo-flat-flat-juicy-fish.png" alt="VulnHub" width="5%" /></a>
+  <a href="https://www.vulnhub.com/" target="_blank"><img src="https://www.vulnhub.com/favicon.ico" alt="VulnHub" width="5%" /></a>
   &emsp; 
-  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-portswigger-web-security-flat-flat-juicy-fish.png" alt="PortSwigger" width="5%" /></a>
+  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://portswigger.net/favicon.ico" alt="PortSwigger" width="5%" /></a>
   &emsp; 
-  <a href="https://www.hacking-lab.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-hacking-lab-cyber-security-flat-flat-juicy-fish.png" alt="Hacking Lab" width="5%" /></a>
+  <a href="https://www.hacking-lab.com/" target="_blank"><img src="https://www.hacking-lab.com/favicon.ico" alt="Hacking Lab" width="5%" /></a>
 </p>
+
 
 
