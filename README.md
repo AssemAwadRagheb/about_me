@@ -13,7 +13,6 @@
 
 <img align="right" src="https://github.com/Assem2022awad/Portfolio/blob/main/Right_Side.gif" width="30%">
 
-<br><br>
 - 👨‍💻 I'm a Full-Stack .NET Developer and Penetration Testing Specialist.
 - 🎓 I graduated from the [Faculty of Technology Information Systems](http://psu.edu.eg) at [Port Said University](http://psu.edu.eg) (2020 – 2024).
 - 🛡️ I specialize in building secure applications and identifying vulnerabilities in web systems.
@@ -21,6 +20,7 @@
 - 🤓 Continuously learning and improving my technical skills.
 - 💼 This is [MY RESUME](#).
 - 🌐 Check out [MY WEBSITE](#).
+
 <br>
 
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(1).gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="10%"> Certifications & Achievements
@@ -30,6 +30,8 @@
 - eJPT Junior Penetration Tester – eLearnSecurity
 - First Place – Web Hackathon, Creativa Hub PSU
 - Winner – Cyber Zone Competition at Cairo ICT Event
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
@@ -134,13 +136,16 @@
       <a href="https://github.com/Assem2022awad/Project2">
           <img alt="Project2" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project2&theme=tokyonight" />
       </a>
-  </p>
-  <p align="center">
-      <a href="https://github.com/Assem2022awad?tab=repositories">View More Repositories</a>
+      <a href="https://github.com/Assem2022awad/Project3">
+          <img alt="Project3" src="https://github-readme-stats.vercel.app/api/pin/?username=Assem2022awad&repo=Project3&theme=tokyonight" />
+      </a>
   </p>
 </details>
 
-<h3>🐍 A Snake Eating My Contributions Graph</h3></summary>
-  <p align="center">
-      <img alt="Quote" src="https://github.com/Assem2022awad/Portfolio/blob/main/github-contribution-grid-snake.svg">
-  </p
+---
+
+<p align="center">
+  <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Divider.gif" width="40%">
+</p>
+
+<h2 align="center">Thank You!</h2>
