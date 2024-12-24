@@ -93,19 +93,13 @@
   &emsp; <img alt="Geeks for Geeks" src="https://img.shields.io/badge/Geeks%20for%20Geeks%20-%2300B140.svg?style=plastic&logo=geeksforgeeks&logoColor=white">
 </p>
 
-## <img src="https://media.giphy.com/media/62pPthiy0sQn7H2J0z/giphy.gif" width="5%"> My Web Penetration Testing Experience
+### <img src="https://github.com/Assem2022awad/Portfolio/blob/main/Software_Tools.gif?raw=true" width="5%"> Cybersecurity Platforms
 <p align="center">
-  <a href="https://www.hackthebox.eu/" target="_blank" style="text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="Hack The Box" width="10%" />
-  </a>
-  &emsp; 
-  <a href="https://www.tryhackme.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c" alt="TryHackMe" width="10%" />
-  </a>
-  &emsp; 
-  <a href="https://portswigger.net/web-security" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" alt="PortSwigger" width="10%" />
-  </a>
+  &emsp; <a href="https://www.hackthebox.eu/" target="_blank"><img src="https://img.shields.io/badge/Hack%20The%20Box-%23000000.svg?style=plastic&logo=hack-the-box&logoColor=white" alt="Hack The Box"></a>
+  &emsp; <a href="https://www.tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23000000.svg?style=plastic&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  &emsp; <a href="https://www.vulnhub.com/" target="_blank"><img src="https://img.shields.io/badge/VulnHub-%23000000.svg?style=plastic&logo=vulnhub&logoColor=white" alt="VulnHub"></a>
+  &emsp; <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.shields.io/badge/PortSwigger-%23000000.svg?style=plastic&logo=portswigger&logoColor=white" alt="PortSwigger"></a>
+  &emsp; <a href="https://www.hacking-lab.com/" target="_blank"><img src="https://img.shields.io/badge/Hacking%20Lab-%23000000.svg?style=plastic&logo=hacking-lab&logoColor=white" alt="Hacking Lab"></a>
 </p>
 
 
