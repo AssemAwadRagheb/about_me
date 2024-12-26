@@ -19,7 +19,7 @@
 - ✍🏻 I love solving problems with software and enhancing system security.
 - 🤓 Continuously learning and improving my technical skills.
 - 💼 This is [MY RESUME](#).
-- 🌐 Check out [https://tech-stack-nine.vercel.app/](#).
+- 🌐 Check out <a href="https://github.com/7oSkaaa"</a>
 
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(1).gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="5%"> Certifications & Achievements
 - CWL Certified Cyber Security Analyst (C3SA)
