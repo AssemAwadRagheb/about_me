@@ -18,8 +18,8 @@
 - 🛡️ I specialize in building secure applications and identifying vulnerabilities in web systems.
 - ✍🏻 I love solving problems with software and enhancing system security.
 - 🤓 Continuously learning and improving my technical skills.
-- 💼 This is  <a href="https://drive.google.com/file/d/1PurTnMHO49Yjq55JrZe99PiYMjIgXu_5/view?usp=drive_link"</a>
-- 🌐 Check out <a href="https://tech-stack-nine.vercel.app/"</a>
+- :thinking: This is [MY RESUME](https://tech-stack-nine.vercel.app/)
+- :boom: You can visit [MY WEBSITE](https://drive.google.com/drive/search?q=cv)
 
 ## <img src="https://github.com/Assem2022awad/Portfolio/blob/main/giphy%20(1).gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="5%"> Certifications & Achievements
 - CWL Certified Cyber Security Analyst (C3SA)
