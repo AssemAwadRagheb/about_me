@@ -14,7 +14,7 @@
 
 <br><br>
 - 👨‍💻 I'm a Full-Stack .NET Developer and Penetration Testing Specialist.
-- 🎓 I graduated from the [Faculty of Technology Information Systems](http://psu.edu.eg) at [Port Said University](http://psu.edu.eg) (2020 – 2024).
+- 🎓 I graduated from the [Faculty of Technology Information Systems](http://psu.edu.eg) at [Port Said University](http://psu.edu.eg) (2020 – 2025).
 - 🛡️ I specialize in building secure applications and identifying vulnerabilities in web systems.
 - ✍🏻 I love solving problems with software and enhancing system security.
 - 🤓 Continuously learning and improving my technical skills.
