@@ -21,8 +21,6 @@
 🌱 **.NET Core & Web Security**  
 👨‍💻 **Portfolio:** [assemawad.42web.io](https://assemawad.42web.io)  
 📄 **View My CV:** [Download Here](https://drive.google.com/file/d/1PurTnMHO49Yjq55JrZe99PiYMjIgXu_5/view)  
-💬 **Ask Me About:** .NET | Web Security | Ethical Hacking  
-⚡ **Fun Fact:** Problem Solver && Hackathon Enthusiast  
 
 ### 🎓 Education
 ![University](https://img.shields.io/badge/🎓-BSc_Technology_Information_Systems-blue?style=flat-square&logo=university) Port Said University (2020-2025)  
