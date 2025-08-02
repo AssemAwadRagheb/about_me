@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://i.ibb.co/27ZKNhLp/unnamed-15-removebg-preview.png" width="40%">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
 <p align="center">
