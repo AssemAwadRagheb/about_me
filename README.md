@@ -113,15 +113,7 @@
   </a>
 </p>
 
-## 📌 Pinned Projects
-<div align="center">
-  <a href="https://github.com/AssemAwadRagheb/Online-Examination-System-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=Online-Examination-System-&theme=dark" />
-  </a>
-  <a href="https://github.com/AssemAwadRagheb/music_store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=music_store&theme=dark" />
-  </a>
-</div>
+
 
 ## 🎯 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AssemAwadRagheb&theme=onedark&no-frame=true&row=1&column=7)
