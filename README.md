@@ -25,14 +25,9 @@
 ⚡ **Fun Fact:** Problem Solver && Hackathon Enthusiast  
 
 ### 🎓 Education
-🎓 **BSc Technology Information Systems**  
-Port Said University (2020-2025)  
-
-📚 **Full Stack .NET Track**  
-Digital Egypt Pioneers Initiative  
-
-📖 **Web Full Stack**  
-Information Technology Institute  
+![University](https://img.shields.io/badge/🎓-BSc_Technology_Information_Systems-blue?style=flat-square&logo=university) Port Said University (2020-2025)  
+![DEPI](https://img.shields.io/badge/📚-Full_Stack_.NET_Track-blue?style=flat-square&logo=microsoft) Digital Egypt Pioneers Initiative  
+![ITI](https://img.shields.io/badge/📖-Web_Full_Stack-blue?style=flat-square&logo=code) Information Technology Institute   
 
 ## 🛠️ Tech Stack
 
