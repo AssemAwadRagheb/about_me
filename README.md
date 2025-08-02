@@ -15,22 +15,21 @@
 ## 🚀 About Me
 <img align="right" src="https://github.com/AssemAwadRagheb/AssemAwadRagheb/blob/main/assets/coding.gif" width="300">
 
-- 🔭 Currently working as a Full Stack Developer at Mudaber
-- 🌱 Specializing in .NET Core and Web Application Security
-- 👨‍💻 Portfolio: [assemawad.42web.io](https://assemawad.42web.io)
-- 📄 Resume: [View My CV](https://drive.google.com/file/d/1PurTnMHO49Yjq55JrZe99PiYMjIgXu_5/view)
-- 💬 Ask me about: .NET, Web Security, Ethical Hacking
-- ⚡ Fun fact: I love solving complex problems and participating in hackathons
+[![Full Stack Dev](https://img.shields.io/badge/🔭-Full_Stack_Developer@Mudaber-b85e05?style=flat-square&logo=visual-studio-code)](https://)  
+[![.NET Specialist](https://img.shields.io/badge/🌱-.NET_Core_&&_Web_Security-b85e05?style=flat-square&logo=dotnet)](https://)  
+[![Portfolio](https://img.shields.io/badge/👨‍💻-Portfolio-b85e05?style=flat-square&logo=google-chrome)](https://assemawad.42web.io)  
+[![Resume](https://img.shields.io/badge/📄-View_My_CV-b85e05?style=flat-square&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1PurTnMHO49Yjq55JrZe99PiYMjIgXu_5/view)  
+[![Ask Me](https://img.shields.io/badge/💬-.NET_|_Web_Security_|_Ethical_Hacking-b85e05?style=flat-square&logo=github-discussions)](https://)  
+[![Fun Fact](https://img.shields.io/badge/⚡-Problem_Solver_&&_Hackathon_Enthusiast-b85e05?style=flat-square&logo=heart)](https://)  
 
 ### 🎓 Education
-- BSc in Technology Information Systems - Port Said University (2020-2025)
-- Full Stack .NET Track - Digital Egypt Pioneers Initiative (DEPI)
-- Web Full Stack - Information Technology Institute (ITI)
+[![University](https://img.shields.io/badge/🎓-BSc_Technology_Information_Systems-blue?style=flat-square&logo=university)](https://) Port Said University (2020-2025)  
+[![DEPI](https://img.shields.io/badge/📚-Full_Stack_.NET_Track-blue?style=flat-square&logo=microsoft)](https://) Digital Egypt Pioneers Initiative  
+[![ITI](https://img.shields.io/badge/📖-Web_Full_Stack-blue?style=flat-square&logo=code)](https://) Information Technology Institute  
 
 ## 🛠️ Tech Stack
 
 ### 📋 Languages
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
