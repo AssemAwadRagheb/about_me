@@ -1,118 +1,121 @@
 <h1 align="center">
-  <img src="https://iili.io/2OVkwnS.gif" width="40%">
+  <img src="https://i.ibb.co/27ZKNhLp/unnamed-15-removebg-preview.png" width="40%">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+.NET+Developer;Penetration+Testing+Specialist;Microsoft+Certified+Professional;Building+Secure+Applications" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b85e05&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Penetration+Testing+Specialist;Microsoft+Certified+Professional;Building+Secure+Web+Applications" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AssemAwadRagheb&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/AssemAwadRagheb?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/AssemAwadRagheb?label=Stars&style=social" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=AssemAwadRagheb&label=Profile+Views&color=orange&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/AssemAwadRagheb?label=Followers&style=social&color=orange" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/AssemAwadRagheb?label=Stars&style=social&color=orange" alt="GitHub Stars">
 </div>
 
 ## 🚀 About Me
-<img align="right" src="https://github.com/Assem2022awad/Portfolio/blob/main/Right_Side.gif" width="30%">
+<img align="right" src="https://github.com/AssemAwadRagheb/AssemAwadRagheb/blob/main/assets/coding.gif" width="300">
 
-- 🔭 I'm currently working on enterprise .NET applications with security focus
-- 🌱 Learning advanced penetration testing techniques
-- 👯 Looking to collaborate on open-source security projects
+- 🔭 Currently working as a Full Stack Developer at Mudaber
+- 🌱 Specializing in .NET Core and Web Application Security
+- 👨‍💻 Portfolio: [assemawad.42web.io](https://assemawad.42web.io)
+- 📄 Resume: [View My CV](https://drive.google.com/file/d/1PurTnMHO49Yjq55JrZe99PiYMjIgXu_5/view)
 - 💬 Ask me about: .NET, Web Security, Ethical Hacking
-- 📫 How to reach me: [All social links below](#-connect-with-me)
-- ⚡ Fun fact: I can solve Rubik's cube in under 2 minutes
+- ⚡ Fun fact: I love solving complex problems and participating in hackathons
 
-### 🏆 Certifications
-- Microsoft Certified: Azure Developer Associate
-- eLearnSecurity Certified Professional Penetration Tester (eCPPT)
-- Offensive Security Certified Professional (OSCP)
-- Certified Ethical Hacker (CEH)
+### 🎓 Education
+- BSc in Technology Information Systems - Port Said University (2020-2025)
+- Full Stack .NET Track - Digital Egypt Pioneers Initiative (DEPI)
+- Web Full Stack - Information Technology Institute (ITI)
 
 ## 🛠️ Tech Stack
 
 ### 📋 Languages
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### ⚙️ Backend
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗃️ Databases
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔐 Security Tools
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6F00?logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-F7B500?logo=metasploit&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+
+## 🏆 Certifications
+- CWL Certified Cyber Security Analyst (C3SA)
+- Web Penetration Testing - Security Meter
+- Full Stack .NET Track - Digital Egypt Pioneers Initiative
+- Web Full Stack - Information Technology Institute (ITI)
+- Information Systems Security and Hacking - TechStack
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AssemAwadRagheb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssemAwadRagheb&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AssemAwadRagheb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssemAwadRagheb&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssemAwadRagheb&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssemAwadRagheb&theme=dark" alt="GitHub Streak">
 </div>
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AssemAwadRagheb&theme=radical&no-frame=true&row=1&column=7)
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/assem-awad-790b592b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="mailto:assem_awad_ragheb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/AssemAwadRagheb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://assemawad.42web.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
-## 🐍 Contribution Graph
-![snake gif](https://github.com/AssemAwadRagheb/AssemAwadRagheb/blob/output/github-contribution-grid-snake.svg)
-
-## 📌 Pinned Repositories
+## 📌 Pinned Projects
 <div align="center">
-  <a href="https://github.com/AssemAwadRagheb/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=repo1&theme=radical" />
+  <a href="https://github.com/AssemAwadRagheb/Online-Examination-System-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=Online-Examination-System-&theme=dark" />
   </a>
-  <a href="https://github.com/AssemAwadRagheb/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=repo2&theme=radical" />
+  <a href="https://github.com/AssemAwadRagheb/music_store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssemAwadRagheb&repo=music_store&theme=dark" />
   </a>
 </div>
 
+## 🎯 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AssemAwadRagheb&theme=onedark&no-frame=true&row=1&column=7)
+
+## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AssemAwadRagheb&theme=react-dark)
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
 </div>
