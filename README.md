@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b85e05&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Penetration+Testing+Specialist;Microsoft+Certified+Professional;Building+Secure+Web+Applications" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b85e05&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Penetration+Testing+Specialist;Building+Secure+Web+Applications;Problem+Solver+and+Innovator" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -66,12 +64,19 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 
-## 🏆 Certifications
-- CWL Certified Cyber Security Analyst (C3SA)
-- Web Penetration Testing - Security Meter
-- Full Stack .NET Track - Digital Egypt Pioneers Initiative
-- Web Full Stack - Information Technology Institute (ITI)
-- Information Systems Security and Hacking - TechStack
+## 🏆 Certifications & Achievements
+- **CWL Certified Cyber Security Analyst (C3SA)** - CyberWarFare Labs
+- **Web Penetration Testing** - Security Meter
+- **Full Stack .NET Track** - Digital Egypt Pioneers Initiative (DEPI)
+- **Web Full Stack** - Information Technology Institute (ITI)
+- **Information Systems Security and Hacking** - TechStack
+- **Competitor** - ACPC Africa and Arab Collegiate Programming Championship
+- **Super Student Program** - Resala Charity Organization
+- **Python Developer** - IEEE Al-Azhar
+- **Youth Leadership Program** - Ministry of Youth & Sports of Egypt
+- **Area Coordinator Canal** - Hult Prize Egypt
+- **First Place** - Web Hackathon, Creativa Hub PSU
+- **Winner** - Cyber Zone Competition at Cairo ICT Event
 
 ## 📊 GitHub Stats
 
@@ -113,8 +118,8 @@
 ## 🎯 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AssemAwadRagheb&theme=onedark&no-frame=true&row=1&column=7)
 
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AssemAwadRagheb&theme=react-dark)
+## 📈 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AssemAwadRagheb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
