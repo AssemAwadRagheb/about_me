@@ -66,18 +66,26 @@
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 
 ## 🏆 Certifications & Achievements
-- **CWL Certified Cyber Security Analyst (C3SA)** - CyberWarFare Labs
-- **Web Penetration Testing** - Security Meter
-- **Full Stack .NET Track** - Digital Egypt Pioneers Initiative (DEPI)
-- **Web Full Stack** - Information Technology Institute (ITI)
-- **Information Systems Security and Hacking** - TechStack
-- **Competitor** - ACPC Africa and Arab Collegiate Programming Championship
-- **Super Student Program** - Resala Charity Organization
-- **Python Developer** - IEEE Al-Azhar
-- **Youth Leadership Program** - Ministry of Youth & Sports of Egypt
-- **Area Coordinator Canal** - Hult Prize Egypt
-- **First Place** - Web Hackathon, Creativa Hub PSU
-- **Winner** - Cyber Zone Competition at Cairo ICT Event
+
+### 🔒 Security Certifications
+[![C3SA Certified](https://img.shields.io/badge/CWL_Certified-FF6F00?style=flat-square&logo=shield-check&logoColor=white)](https://) **CWL Certified Cyber Security Analyst**  
+[![Web Pentester](https://img.shields.io/badge/Web_Pentester-000000?style=flat-square&logo=bug&logoColor=white)](https://) **Web Penetration Testing** - Security Meter  
+[![Security Specialist](https://img.shields.io/badge/Security_Specialist-4A148C?style=flat-square&logo=security&logoColor=white)](https://) **Info Systems Security** - TechStack  
+
+### 💻 Development Certifications
+[![.NET Expert](https://img.shields.io/badge/Full_Stack_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://) **Full Stack .NET Track** - DEPI  
+[![Web Developer](https://img.shields.io/badge/Web_Full_Stack-1572B6?style=flat-square&logo=web-components&logoColor=white)](https://) **Web Full Stack** - ITI  
+[![Python Dev](https://img.shields.io/badge/Python_Developer-3776AB?style=flat-square&logo=python&logoColor=white)](https://) **Python Developer** - IEEE Al-Azhar  
+
+### 🏅 Achievements
+[![Programming Champion](https://img.shields.io/badge/ACPC_Competitor-FFD700?style=flat-square&logo=trophy&logoColor=black)](https://) **ACPC Programming Championship**  
+[![Hackathon Winner](https://img.shields.io/badge/1st_Place-32CD32?style=flat-square&logo=medal&logoColor=white)](https://) **Web Hackathon Winner** - Creativa Hub  
+[![CTF Winner](https://img.shields.io/badge/Cyber_Zone_Winner-FF6347?style=flat-square&logo=shield)](https://) **Cyber Zone Competition** - Cairo ICT  
+
+### 👔 Leadership
+[![Youth Leader](https://img.shields.io/badge/Youth_Leader-00BFFF?style=flat-square&logo=users&logoColor=white)](https://) **Youth Leadership Program**  
+[![Area Coordinator](https://img.shields.io/badge/Area_Coordinator-8A2BE2?style=flat-square&logo=star)](https://) **Hult Prize Egypt**  
+[![Super Student](https://img.shields.io/badge/Super_Student-FF8C00?style=flat-square&logo=graduation-cap)](https://) **Resala Charity Organization**
 
 ## 📊 GitHub Stats
 
